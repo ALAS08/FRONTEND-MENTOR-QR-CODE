@@ -18,7 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR-Code](qr-code-component-main\QR-CODE.png)
+![QR-Code](QR-CODE.png)
+
+### Links
+
+- Live Site URL:[https://your-live-site-url.com](https://alas08.github.io/qr-code.github.io/
 
 ## My process
 
