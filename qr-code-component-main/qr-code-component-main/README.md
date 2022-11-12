@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR-Code](qr-code-component-main\QR-CODE.png)
+![QR-Code](QR-CODE.png)
 
 ## My process
 
